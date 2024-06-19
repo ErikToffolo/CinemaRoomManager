@@ -1,0 +1,18 @@
+type: sorting
+options:
+  - Read data from the standard input
+  - Process data
+  - Enjoy the result
+  - Print data to the standard output
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8301#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

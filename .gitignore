@@ -1,0 +1,165 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Arithmetic operations/Calculating average speed from distance and time/out/
+/Topics/Arithmetic operations/Calculating average speed from distance and time/out/production/classes/
+/Topics/Arithmetic operations/Calculating square, cube and fourth power of a number/out/
+/Topics/Arithmetic operations/Calculating square, cube and fourth power of a number/out/production/classes/
+/Topics/Array/Sum of multiples of 3 in an array/out/
+/Topics/Array/Sum of multiples of 3 in an array/out/production/classes/
+/Topics/Arrays as parameters/Adding values/out/
+/Topics/Arrays as parameters/Adding values/out/production/classes/
+/Topics/Arrays as parameters/Inverse boolean flags/out/
+/Topics/Arrays as parameters/Inverse boolean flags/out/production/classes/
+/Topics/Arrays as parameters/Sorting numbers/out/
+/Topics/Arrays as parameters/Sorting numbers/out/production/classes/
+/Topics/Basic literals  numbers, strings and characters/Save the day/out/
+/Topics/Basic literals  numbers, strings and characters/Save the day/out/production/classes/
+/Topics/Boolean type and operations. True and false/Checking if a number is even or odd/out/
+/Topics/Boolean type and operations. True and false/Checking if a number is even or odd/out/production/classes/
+/Topics/Boolean type and operations. True and false/Evaluating the conjunction of two booleans/out/
+/Topics/Boolean type and operations. True and false/Evaluating the conjunction of two booleans/out/production/classes/
+/Topics/Break and continue. Branching/Even or odd/out/
+/Topics/Break and continue. Branching/Even or odd/out/production/classes/
+/Topics/Break and continue. Branching/Integer iteration with selective conditions and halt/out/
+/Topics/Break and continue. Branching/Integer iteration with selective conditions and halt/out/production/classes/
+/Topics/Break and continue. Branching/The integer barrier/out/
+/Topics/Break and continue. Branching/The integer barrier/out/production/classes/
+/Topics/Break and continue. Branching/The sequence/out/
+/Topics/Break and continue. Branching/The sequence/out/production/classes/
+/Topics/Calling methods/Call me awesome/out/
+/Topics/Calling methods/Call me awesome/out/production/classes/
+/Topics/Characters/Find the next Unicode character/out/
+/Topics/Characters/Find the next Unicode character/out/production/classes/
+/Topics/Coding style conventions/Determining the sign of an integer/out/
+/Topics/Coding style conventions/Determining the sign of an integer/out/production/classes/
+/Topics/Comparing values. Relational operators/Check the sum/out/
+/Topics/Comparing values. Relational operators/Check the sum/out/production/classes/
+/Topics/Comparing values. Relational operators/Check the value (1)/out/
+/Topics/Comparing values. Relational operators/Check the value (1)/out/production/classes/
+/Topics/Comparing values. Relational operators/Exactly one parameter is positive/out/
+/Topics/Comparing values. Relational operators/Exactly one parameter is positive/out/production/classes/
+/Topics/Comparing values. Relational operators/Groundhogs at a party/out/
+/Topics/Comparing values. Relational operators/Groundhogs at a party/out/production/classes/
+/Topics/Conditional statement/Chocolate/out/
+/Topics/Conditional statement/Chocolate/out/production/classes/
+/Topics/Declaring methods/Find the max of three numbers/out/
+/Topics/Declaring methods/Find the max of three numbers/out/production/classes/
+/Topics/Declaring methods/Raise to the power/out/
+/Topics/Declaring methods/Raise to the power/out/production/classes/
+/Topics/Declaring methods/Sum of numbers in the range/out/
+/Topics/Declaring methods/Sum of numbers in the range/out/production/classes/
+/Topics/Declaring methods/The sign of a number/out/
+/Topics/Declaring methods/The sign of a number/out/production/classes/
+/Topics/Declaring methods/Vowel or not/out/
+/Topics/Declaring methods/Vowel or not/out/production/classes/
+/Topics/Errors in programs/Fix compile-time errors/out/
+/Topics/Errors in programs/Fix compile-time errors/out/production/classes/
+/Topics/Errors in programs/Print the age/out/
+/Topics/Errors in programs/Print the age/out/production/classes/
+/Topics/For-loop/Arithmetic average/out/
+/Topics/For-loop/Arithmetic average/out/production/classes/
+/Topics/For-loop/Fizz Buzz/out/
+/Topics/For-loop/Fizz Buzz/out/production/classes/
+/Topics/For-loop/Grades/out/
+/Topics/For-loop/Grades/out/production/classes/
+/Topics/Formatted output/Greeting with capitalized names and age/out/
+/Topics/Formatted output/Greeting with capitalized names and age/out/production/classes/
+/Topics/Formatted output/Job simulation/out/
+/Topics/Formatted output/Job simulation/out/production/classes/
+/Topics/Formatted output/Simple combination/out/
+/Topics/Formatted output/Simple combination/out/production/classes/
+/Topics/Formatted output/The battle for Mathematics/out/
+/Topics/Formatted output/The battle for Mathematics/out/production/classes/
+/Topics/Functional decomposition/Calculator with four methods/out/
+/Topics/Functional decomposition/Calculator with four methods/out/production/classes/
+/Topics/Functional decomposition/Kate's math function/out/
+/Topics/Functional decomposition/Kate's math function/out/production/classes/
+/Topics/Increment and decrement/Decrement all/out/
+/Topics/Increment and decrement/Decrement all/out/production/classes/
+/Topics/Integer types and operations/Arithmetic expression/out/
+/Topics/Integer types and operations/Arithmetic expression/out/production/classes/
+/Topics/Integer types and operations/Computing the remainder and its triple/out/
+/Topics/Integer types and operations/Computing the remainder and its triple/out/production/classes/
+/Topics/Integer types and operations/Converting minutes to hours and minutes format/out/
+/Topics/Integer types and operations/Converting minutes to hours and minutes format/out/production/classes/
+/Topics/Integer types and operations/Reversing/out/
+/Topics/Integer types and operations/Reversing/out/production/classes/
+/Topics/Integer types and operations/Reversing input numbers/out/
+/Topics/Integer types and operations/Reversing input numbers/out/production/classes/
+/Topics/Integer types and operations/Tens digit/out/
+/Topics/Integer types and operations/Tens digit/out/production/classes/
+/Topics/Introduction to Java/Basics/out/
+/Topics/Introduction to Java/Basics/out/production/classes/
+/Topics/Iterating over arrays/Alphabetical order/out/
+/Topics/Iterating over arrays/Alphabetical order/out/production/classes/
+/Topics/Iterating over arrays/Check if an array is sorted ascending/out/
+/Topics/Iterating over arrays/Check if an array is sorted ascending/out/production/classes/
+/Topics/Iterating over arrays/Count how many times a number occurs/out/
+/Topics/Iterating over arrays/Count how many times a number occurs/out/production/classes/
+/Topics/Iterating over arrays/Right Rotation/out/
+/Topics/Iterating over arrays/Right Rotation/out/production/classes/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/production/classes/
+/Topics/Iterating over arrays/The sum of array elements/out/
+/Topics/Iterating over arrays/The sum of array elements/out/production/classes/
+/Topics/Iterating over arrays/Two numbers never occur next to each other/out/
+/Topics/Iterating over arrays/Two numbers never occur next to each other/out/production/classes/
+/Topics/Multidimensional array/Find the corners/out/
+/Topics/Multidimensional array/Find the corners/out/production/classes/
+/Topics/Multidimensional array/Maximum element in a matrix/out/
+/Topics/Multidimensional array/Maximum element in a matrix/out/production/classes/
+/Topics/Multidimensional array/Rotate a rectangle array/out/
+/Topics/Multidimensional array/Rotate a rectangle array/out/production/classes/
+/Topics/Multiple conditions  switch/Floor-space of the room/out/
+/Topics/Multiple conditions  switch/Floor-space of the room/out/production/classes/
+/Topics/Multiple conditions  switch/Test learners/out/
+/Topics/Multiple conditions  switch/Test learners/out/production/classes/
+/Topics/NullPointerException/Print string multiple times based on input/out/
+/Topics/NullPointerException/Print string multiple times based on input/out/production/classes/
+/Topics/NullPointerException/Return empty string when argument is null/out/
+/Topics/NullPointerException/Return empty string when argument is null/out/production/classes/
+/Topics/One-line condition with ternary operator/Categorize integer as positive, negative, or zero/out/
+/Topics/One-line condition with ternary operator/Categorize integer as positive, negative, or zero/out/production/classes/
+/Topics/One-line condition with ternary operator/Check if a given number is equal to 10/out/
+/Topics/One-line condition with ternary operator/Check if a given number is equal to 10/out/production/classes/
+/Topics/One-line condition with ternary operator/Determining Fizz, Buzz, or FizzBuzz for a number/out/
+/Topics/One-line condition with ternary operator/Determining Fizz, Buzz, or FizzBuzz for a number/out/production/classes/
+/Topics/Primitive and reference types/Creating a primitive/out/
+/Topics/Primitive and reference types/Creating a primitive/out/production/classes/
+/Topics/Printing data/First, second, third/out/
+/Topics/Printing data/First, second, third/out/production/classes/
+/Topics/Printing data/From 0 to 4/out/
+/Topics/Printing data/From 0 to 4/out/production/classes/
+/Topics/Printing data/Square a user-inputted integer/out/
+/Topics/Printing data/Square a user-inputted integer/out/production/classes/
+/Topics/Printing data/The result of a Tic-Tac-Toe game/out/
+/Topics/Printing data/The result of a Tic-Tac-Toe game/out/production/classes/
+/Topics/Reading user's input with Scanner/Greet user with their name and age/out/
+/Topics/Reading user's input with Scanner/Greet user with their name and age/out/production/classes/
+/Topics/Reading user's input with Scanner/Summing apples and oranges from user input/out/
+/Topics/Reading user's input with Scanner/Summing apples and oranges from user input/out/production/classes/
+/Topics/String/Comparing strings ignoring whitespaces/out/
+/Topics/String/Comparing strings ignoring whitespaces/out/production/classes/
+/Topics/String/Extracting a substring/out/
+/Topics/String/Extracting a substring/out/production/classes/
+/Topics/Type casting/Converting and printing double values as integers/out/
+/Topics/Type casting/Converting and printing double values as integers/out/production/classes/
+/Topics/Type casting/Rounding down a halved float value to an integer/out/
+/Topics/Type casting/Rounding down a halved float value to an integer/out/production/classes/
+/Topics/Types and variables/Assignments (1)/out/
+/Topics/Types and variables/Assignments (1)/out/production/classes/
+/Topics/Types and variables/Invalid declaration of variables/out/
+/Topics/Types and variables/Invalid declaration of variables/out/production/classes/
+/Topics/While and do-while loops/Finding the smallest multiple of 3 larger than 'n'/out/
+/Topics/While and do-while loops/Finding the smallest multiple of 3 larger than 'n'/out/production/classes/
+/Topics/While and do-while loops/The largest element of a sequence/out/
+/Topics/While and do-while loops/The largest element of a sequence/out/production/classes/
+/Topics/While and do-while loops/The sequence/out/
+/Topics/While and do-while loops/The sequence/out/production/classes/
+/Topics/Writing first program/Hello, Java/out/
+/Topics/Writing first program/Hello, Java/out/production/classes/
+/Topics/Writing first program/The first program/out/
+/Topics/Writing first program/The first program/out/production/classes/

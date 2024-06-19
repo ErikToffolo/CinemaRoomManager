@@ -1,0 +1,12 @@
+content:
+  - Theory
+  - Return empty string when argument is null
+  - Unknown input
+  - Catching null pointer exception in code
+  - Code that throws an exception
+  - Where NPE may occur
+  - Lines that may throw NPE
+  - When NPE cannot occur
+  - Avoid NPE
+  - Find NPE
+  - Print string multiple times based on input

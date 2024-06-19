@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: <pre><code class="java">int i = 0</code></pre>
+  - text: <pre><code class="java">i++</code></pre>
+  - text: <pre><code class="java">i--</code></pre>
+  - text: <pre><code class="java">i &lt;= array.length</code></pre>
+  - text: <pre><code class="java">sum += i</code></pre>
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47273#comment
+status: Solved
+record: -1
+local_check: false

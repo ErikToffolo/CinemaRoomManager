@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: <b>class</b> is a keyword
+  - text: <b>main</b> is a keyword
+  - text: <b>void</b> is a statement
+  - text: <b>HelloWorldProgram</b> is a name
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3757#comment
+status: Solved
+record: -1
+local_check: false

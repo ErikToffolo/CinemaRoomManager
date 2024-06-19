@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: <pre><code class="java">Integer w = new Integer(10);</code></pre>
+  - text: <pre><code class="java">char z = 10;</code></pre>
+  - text: <pre><code class="java">boolean v = 10;</code></pre>
+  - text: <pre><code class="java">int x = 10;</code></pre>
+  - text: <pre><code class="java">double y = 10;</code></pre>
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47376#comment
+status: Solved
+record: -1
+local_check: false

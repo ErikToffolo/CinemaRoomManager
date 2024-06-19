@@ -1,0 +1,9 @@
+custom_name: Method "main"
+content:
+  - Theory
+  - "Print  Hello, Java"
+  - "Creating a 'Hello, World!' program from scrambled code"
+  - Running a program without main
+  - Fixing the main method
+  - No main args
+  - Fixing errors in main
